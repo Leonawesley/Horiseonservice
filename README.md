@@ -28,4 +28,7 @@ Horiseon is useful for people who wants to increase their business using their o
 
 Please refer to the license in the repo
 
+## Deployed github link
+
+https://leonawesley.github.io/Horiseonservice
 
