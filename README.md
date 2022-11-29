@@ -16,6 +16,8 @@ N/A
 
 Horiseon is useful for people who wants to increase their business using their optimiztion search engine, online management and  social media marketing. Optimization uses efficient algorithm  to expand their business in effective way. 
 
+![The Horiseon marketing services webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets/images/screenshot.png)
+
 ## Credits
 
 * https://www.w3schools.com/html/html5_semantic_elements.asp
